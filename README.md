@@ -168,5 +168,3 @@ an automation surface (iframe/webview) that the user can see.
 
 Huge thanks to the original Playwright MCP server authors and the Playwright
 team (Microsoft). This server builds directly on their work and ecosystem.
-
-If you want anything else, ask respectfully.
