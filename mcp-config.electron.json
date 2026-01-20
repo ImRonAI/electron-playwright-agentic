@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@executeautomation/playwright-mcp-server"],
+      "env": {
+        "ELECTRON_MCP_MODE": "electron",
+        "ELECTRON_BRIDGE_URL": "http://127.0.0.1:9231"
+      }
+    }
+  }
+}
